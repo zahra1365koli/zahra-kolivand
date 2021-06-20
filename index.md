@@ -1,18 +1,29 @@
 
-### Anahita Taheri
+### ZAHRA KOLIVAND
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ name: ZAHRA
++ last name : KOLIVAND
++ Date of birth : 1986/March/21
 + I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ location :khorramabad , I.R.Iran
 
 
 ### Skill Highlights
+Programming
+Construction Site
+python
+js(javascript)
+HTML
+NETWORK+
+WORD
+EXCEL
+ACCess
+POWRPOINT
+
 
 ---
 + trade on Tehran Stock Exchange and Forex
@@ -22,9 +33,11 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma : Al-Zahra Pre-University
 + Bachelor of science : IT Engineering
-_ payam Noor University of North 
+_ payam Noor University of Khorramabad 
+Bachelor of science :Laboratory Science,Lorestan University
+
 
 ### language
 
@@ -36,14 +49,17 @@ _ payam Noor University of North
 
 ---
 + Trade
-+ Studing historical books
++ Studing Scientific books
 + travel 
 + playing volleyball
++Programming 
++ 
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ Laboratory technical expert
++ Teaching
 
 
 
