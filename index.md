@@ -8,7 +8,7 @@
 + name: ZAHRA
 + last name : KOLIVAND
 + Date of birth : 1986/March/21
-+ I am a trader and IT engineering student
++ Master of Software Engineering Student
 + location :khorramabad , I.R.Iran
 
 
